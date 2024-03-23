@@ -6,7 +6,7 @@
 
 **Контейнер Docker:** https://hub.docker.com/r/gorbunovnikita/sentiment_ui_app
 ---
-**Видеопревью:** https://youtu.be/GhiC7c2k7D0
+**Видеопревью работы сервиса:** https://youtu.be/GhiC7c2k7D0
 
 ## Архитектура и Реализация
 
